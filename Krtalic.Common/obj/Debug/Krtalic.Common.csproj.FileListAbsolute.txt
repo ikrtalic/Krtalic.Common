@@ -1,0 +1,12 @@
+C:\temp\Krtalic.Common\bin\Debug\krtalic.basic.dll
+C:\temp\Krtalic.Common\bin\Debug\krtalic.basic.pdb
+C:\temp\Krtalic.Common\bin\Debug\Newtonsoft.Json.dll
+C:\temp\Krtalic.Common\bin\Debug\Newtonsoft.Json.xml
+C:\temp\Krtalic.Common\obj\Debug\krtalic.basic.dll
+C:\temp\Krtalic.Common\obj\Debug\krtalic.basic.pdb
+C:\temp\Krtalic.Common\obj\Debug\Krtalic.Common.csprojResolveAssemblyReference.cache
+C:\temp\Krtalic.Common\Krtalic.Common\bin\Debug\krtalic.basic.dll
+C:\temp\Krtalic.Common\Krtalic.Common\bin\Debug\krtalic.basic.pdb
+C:\temp\Krtalic.Common\Krtalic.Common\obj\Debug\Krtalic.Common.csprojResolveAssemblyReference.cache
+C:\temp\Krtalic.Common\Krtalic.Common\obj\Debug\krtalic.basic.dll
+C:\temp\Krtalic.Common\Krtalic.Common\obj\Debug\krtalic.basic.pdb

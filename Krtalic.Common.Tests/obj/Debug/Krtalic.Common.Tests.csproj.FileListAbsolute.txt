@@ -1,0 +1,16 @@
+C:\temp\Krtalic.Common.Tests\bin\Debug\Krtalic.Common.Tests.dll
+C:\temp\Krtalic.Common.Tests\bin\Debug\Krtalic.Common.Tests.pdb
+C:\temp\Krtalic.Common.Tests\bin\Debug\krtalic.basic.dll
+C:\temp\Krtalic.Common.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\temp\Krtalic.Common.Tests\bin\Debug\krtalic.basic.pdb
+C:\temp\Krtalic.Common.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\temp\Krtalic.Common.Tests\obj\Debug\Krtalic.Common.Tests.csprojResolveAssemblyReference.cache
+C:\temp\Krtalic.Common.Tests\obj\Debug\Krtalic.Common.Tests.dll
+C:\temp\Krtalic.Common.Tests\obj\Debug\Krtalic.Common.Tests.pdb
+C:\temp\Krtalic.Common\Krtalic.Common.Tests\bin\Debug\Krtalic.Common.Tests.dll
+C:\temp\Krtalic.Common\Krtalic.Common.Tests\bin\Debug\Krtalic.Common.Tests.pdb
+C:\temp\Krtalic.Common\Krtalic.Common.Tests\bin\Debug\krtalic.basic.dll
+C:\temp\Krtalic.Common\Krtalic.Common.Tests\bin\Debug\krtalic.basic.pdb
+C:\temp\Krtalic.Common\Krtalic.Common.Tests\obj\Debug\Krtalic.Common.Tests.csprojResolveAssemblyReference.cache
+C:\temp\Krtalic.Common\Krtalic.Common.Tests\obj\Debug\Krtalic.Common.Tests.dll
+C:\temp\Krtalic.Common\Krtalic.Common.Tests\obj\Debug\Krtalic.Common.Tests.pdb
